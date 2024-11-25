@@ -1,0 +1,6 @@
+[submodule "Libft"]
+	path = Libft
+	url = git@vogsphere.42angouleme.fr:vogsphere/intra-uuid-df4c4b6c-d910-4ec0-9bdc-de2e07cb6eee-6194144-mah-ming
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@vogsphere.42angouleme.fr:vogsphere/intra-uuid-7415c377-4acc-407b-8443-f45537c38ef4-6207373-mah-ming
